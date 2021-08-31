@@ -1,0 +1,4 @@
+sanic
+sanic_cors
+sanic_openapi
+psycopg2-binary
