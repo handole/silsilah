@@ -39,3 +39,6 @@ SELECT * FROM silsilah WHERE status='Anak' AND gender='perempuan';
 
 ### 7. Query untuk mendapatkan sepupu laki-laki dari Hani
 SELECT * FROM silsilah WHERE status='Cucu' AND gender='laki-laki';
+
+### 8 & 9 pada https://github.com/handole/silsilah.git
+### 10. terlampir
